@@ -1,0 +1,7 @@
+C:\Users\Glenda\Desktop\RedBee\ChallengeRedbeeAcademy\ChallengeRedbeeAcademy\bin\Debug\ChallengeRedbeeAcademy.exe.config
+C:\Users\Glenda\Desktop\RedBee\ChallengeRedbeeAcademy\ChallengeRedbeeAcademy\bin\Debug\ChallengeRedbeeAcademy.exe
+C:\Users\Glenda\Desktop\RedBee\ChallengeRedbeeAcademy\ChallengeRedbeeAcademy\bin\Debug\ChallengeRedbeeAcademy.pdb
+C:\Users\Glenda\Desktop\RedBee\ChallengeRedbeeAcademy\ChallengeRedbeeAcademy\obj\Debug\ChallengeRedbeeAcademy.csprojAssemblyReference.cache
+C:\Users\Glenda\Desktop\RedBee\ChallengeRedbeeAcademy\ChallengeRedbeeAcademy\obj\Debug\ChallengeRedbeeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Glenda\Desktop\RedBee\ChallengeRedbeeAcademy\ChallengeRedbeeAcademy\obj\Debug\ChallengeRedbeeAcademy.exe
+C:\Users\Glenda\Desktop\RedBee\ChallengeRedbeeAcademy\ChallengeRedbeeAcademy\obj\Debug\ChallengeRedbeeAcademy.pdb
